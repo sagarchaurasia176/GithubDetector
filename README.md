@@ -21,7 +21,8 @@ To run this project, you will need to type npm start to your terminal
 
 
 ## Screenshots
- 
+ ![Capture](https://github.com/sagarchaurasia176/GithubDetector/assets/101509099/518c8f62-62f9-4b3a-a4b1-4ef3c7d334ec)
+
 
 ## Tech Stack
 
